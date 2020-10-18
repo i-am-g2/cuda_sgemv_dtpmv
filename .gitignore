@@ -1,0 +1,5 @@
+sgemv/TestCases/*.txt
+sgemv/Results/*.txt
+dtpmv/TestCases/*.txt
+dtpmv/Results/*.txt
+
